@@ -1,0 +1,5 @@
+[functions.incident-intelligence]
+verify_jwt = false
+
+[functions.goong-routing]
+verify_jwt = false
